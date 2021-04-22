@@ -1,9 +1,9 @@
-package main
+package main //main package declaration
 
 import (
 	"fmt"
 
-	"github.com/fullstacker-go/calculate/calculation"
+	"github.com/fullstacker-go/calculate/calculation" //importing custom package calculation from its path
 )
 
 func main() {
