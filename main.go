@@ -1,8 +1,9 @@
 package main
 
 import (
-	"calculate/calculation"
 	"fmt"
+
+	"github.com/fullstacker-go/calculate/calculation"
 )
 
 func main() {
